@@ -13,11 +13,9 @@ Most of my code lives somewhere between *"numerics that actually converge"* and
   Right now: wave equation on hyperboloidal slices, SBP finite differences, Kreiss–Oliger dissipation,
   convergence tests until the orders match. Python/NumPy for numerics, Mathematica for the symbolic
   grind. Work in progress, like every thesis ever.
-- **Trento collaboration (2025).** C++17 code generating TOV star initial data for relativistic codes.
+- **Trento collaboration (2025).** C++17 code generating TOV star initial data using LORENE for relativistic codes.
   CMake and I are not friends.
-- **Day job: data engineering, RSE and teaching.**
-  - *Data engineering* — PySpark, Databricks, SQL pipelines in production. Pays the rent and
-    teaches you that real-world data is always broken.
+- **Day job: RSE and teaching.**
   - *Research software engineering* — `foci3d`, a pipeline for counting foci in cell nuclei in 3D
     confocal stacks. Cellpose-SAM segmentation on a GPU cluster, stitching nuclei across z, cleaning
     the mask without deleting real nuclei, and assigning every FindFoci detection to its nucleus.
@@ -28,7 +26,11 @@ Most of my code lives somewhere between *"numerics that actually converge"* and
     attendance via NFC cards: the card signs a URL with AES on every tap, the server verifies it,
     the student is checked in. Provisioning cards and wrangling crypto
     keys is now literally part of my job.
-  - *Teaching* at MFF UK. 
+  - *Teaching* at MFF UK.
+- **Before that:** data engineering until mid-2026 — PySpark, Databricks, SQL pipelines in production.
+  Paid the rent and taught me that real-world data is always broken. Before *that*, a C#/ASP.NET
+  payroll and attendance portal full of legacy code (the full experience), and Python + Apps Script
+  automation for a real-estate company.
 - **Before that:** a C#/ASP.NET payroll and attendance portal full of legacy code (the full experience),
   and Python + Apps Script automation for a real-estate company.
 - **Games and engines, because I can't stop.** Šahy — my own chess variant, with an engine tuned by
