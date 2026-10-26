@@ -36,7 +36,7 @@ Most of my code lives somewhere between *"numerics that actually converge"* and
   generation talks. Chess bots in C# and Python.
 - **AI-assisted, openly.** I use Claude Code a lot. On the bigger projects the architecture and the
   decisions are mine and AI does a lot of the typing. I'm not going to pretend otherwise.
-- **Honestly meh:** OrbitalSim is a 2024 class project written over two weekends and it shows, though the professor said it is historically one of the best, `numerics-playground` is
+- **Honestly meh:** OrbitalSim is a 2024 class project written over two weekends, loved working on it but the time constraint reads, `numerics-playground` is
   a three-file corpse, replaced by `pde_kodik`. Ultimate tic-tac-toe has been "WIP" since 2025, which means dead (everybody has such projects, right? ... RIGHT?).
 
 **Stack:** Python (NumPy, Numba, PySpark), C#/.NET, Mathematica, JavaScript/TypeScript,
