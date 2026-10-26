@@ -1,4 +1,4 @@
-# Hi, I'm Jan 👋
+# Hi, I'm Jan
 
 Theoretical physics student at [MFF UK](https://www.mff.cuni.cz/) (Charles University, Prague),
 currently working on my master's thesis on **hyperboloidal evolution** — numerically solving
@@ -42,7 +42,7 @@ Most of my code lives somewhere between *"numerics that actually converge"* and
 **Stack:** Python (NumPy, Numba, PySpark), C#/.NET, Mathematica, JavaScript/TypeScript,
 C++ when I have to, LaTeX way more than is healthy.
 
-### 📌 Selected projects
+### Selected projects
 | Project | What it is |
 |---|---|
 | [pde_kodik](https://github.com/jmi3/pde_kodik) | Modular finite-difference PDE framework — Numba kernels, pluggable BCs and integrators, tested |
@@ -52,9 +52,10 @@ C++ when I have to, LaTeX way more than is healthy.
 | [Public-texts](https://github.com/jmi3/Public-texts) | Texts on math, games and physics (CC BY 4.0) |
 | [ultimate-tictactoe-game](https://github.com/jmi3/ultimate-tictactoe-game) | Generalized nested tic-tac-toe. WIP. Will demolish you eventually. |
 
-### 🌌 Outside the code
+### Outside the code
 I co-organize an astronomy summer camp for kids — which mostly means designing
 board-game economies with space agencies and writing rules nobody reads. And also a ton of code, but I cannot show it because kids these days could find it and cheat.
+
 I also play guitar, read books, play chess, grab a beer with friends sometimes and enjoy the simple pleasures of life... Well, at least I like to think I have a life outside of coding, but the evidence is thin.
 
-📫 [jan.cervenan.cz](https://jan.cervenan.cz/home)
+Check the web btw: [jan.cervenan.cz](https://jan.cervenan.cz/home)
